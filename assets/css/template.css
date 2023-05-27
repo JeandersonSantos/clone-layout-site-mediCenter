@@ -1,5 +1,21 @@
 body{
-    background-color: #FF0000;
     margin:0;
     padding:0;
+}
+header{
+    display:flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 990px;
+    height: 100px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.menu{
+
 }
