@@ -113,3 +113,22 @@ nav a:hover{
     font-size: 13px;
     text-decoration: none; 
 }
+.banner_schedule{
+    border-bottom: 1px solid;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+.banner_schedule_day{
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+}
+.banner_schedule_hours{
+    font-size: 13px;
+    display: flex;
+    align-items: center;   
+}
+.banner_schedule_container{
+    margin-top: 7px;
+}
