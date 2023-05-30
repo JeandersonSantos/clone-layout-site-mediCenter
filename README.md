@@ -1,2 +1,5 @@
 # clone-layout-site-mediCenter
-Um clone do layout do site MediCenter Utillizando HTML E CSS
+### No que consiste este projeto?
+Este projeto é um clone de um template
+### Objetivo:
+O objetivo desse projeto é aprimorar os conhecimento em html e css focando no estudo do flex box
