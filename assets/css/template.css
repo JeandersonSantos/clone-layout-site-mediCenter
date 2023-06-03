@@ -254,7 +254,7 @@ footer .widget_title_text {
     font-size:12px;
     margin-top:30px;
 }
-.menuMobile{
+.menuMobile {
     display: none;
     width: 40px;
     height: 40px;
@@ -262,11 +262,15 @@ footer .widget_title_text {
     margin-bottom: 40px;
     margin-right: 20px;
 }
-.mm_line{
+.mm_line { 
     height: 3px;
     background-color: #39aae1;
 }
 @media (max-width: 600px){
+    .widget_title{
+        margin-top: 108px;
+        margin-bottom: 20px;
+    }
     .banner_headLine{
         padding: 20px;
     }
@@ -280,7 +284,7 @@ footer .widget_title_text {
         height: auto;
         flex-direction: column;
     }
-    .contnainer{
+    .container{
         flex-direction: column;
     }
     #geral section,
@@ -298,14 +302,24 @@ footer .widget_title_text {
         padding-left: 20px;
     }
     header .container{
+        flex-direction: row;
+    }
+    nav ul{
         flex-direction: column;
         display: none;
+        position: absolute;
+        left: 0;
+        width: 100%;
+        background-color: #FFFFFF;
     }
     header{
         height: auto;
     }
     .logo{
-        padding: flex;
+        padding-left: 20px;
+    }
+    .menuMobile{
+        display: flex;
         flex-direction: column;
         justify-content: space-around;/*pega todo o espaço que sobrar na linha e distribui igualmente entre os elementos, deixando o spaço igual em toda a linha*/
     }
