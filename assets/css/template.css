@@ -267,14 +267,14 @@ footer .widget_title_text {
     background-color: #39aae1;
 }
 
-.square_departamentos{
-    width: 145px;
-    height: 145px;
+.square_departamentos_left, .square_departamentos_right{
+    width: 155px;
+    height: 155px;
     background-color: #39aae1;
-    margin-right: 20px;
     margin-bottom: 20px;
-
-
+}
+.square_departamentos_left{
+    margin-right: 20px;
 }
 @media (max-width: 600px){
     .widget_title{
