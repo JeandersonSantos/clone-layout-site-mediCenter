@@ -276,6 +276,23 @@ footer .widget_title_text {
 .square_departamentos_left{
     margin-right: 20px;
 }
+.widget_body_contact{
+    display: flex;
+}
+.widget_body_text, .widget_body_contact{
+    /*margin-bottom: 20px;*/
+    padding-bottom: 20px;
+    border-bottom: solid 1px #5c5c5c ;
+}
+.widget_body_contact img{
+    background-color: #a6a3a3;
+    padding: 5px;
+    margin-right: 5px;
+}
+.widget_body_contact{
+    padding-top: 20px;
+    align-items: center;/*alinha na vertical*/
+}
 @media (max-width: 600px){
     .widget_title{
         margin-top: 108px;
