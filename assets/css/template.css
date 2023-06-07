@@ -159,7 +159,7 @@ justify-content: center;
 }
 .flex{
     display: flex;
-    flex-wrap: wrap;/*da aliberdade para o flex quebrar a linha*/
+    flex-wrap: wrap;/*da a liberdade para o flex quebrar a linha*/
 }
 article {
     flex: 1;
@@ -216,7 +216,7 @@ footer{
 .fm_1, .fm_2, .fm_3 {
     flex: 1;
     color: #FFFFFF;
-    padding: 20px;
+    padding : 20px;
 }
 .fm_1{
     background-color: #39aae1;
@@ -265,6 +265,16 @@ footer .widget_title_text {
 .mm_line { 
     height: 3px;
     background-color: #39aae1;
+}
+
+.square_departamentos{
+    width: 145px;
+    height: 145px;
+    background-color: #39aae1;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+
 }
 @media (max-width: 600px){
     .widget_title{
