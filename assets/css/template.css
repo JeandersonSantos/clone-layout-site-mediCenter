@@ -293,6 +293,43 @@ footer .widget_title_text {
     padding-top: 20px;
     align-items: center;/*alinha na vertical*/
 }
+.fm_title{
+    font-size:26px;
+}
+.fm_text{
+    font-size:14px;
+
+}
+.wb_desc, .wb_a_1, .wb_a_2, .wb_text_l{
+    color: #a6a3a3;
+    font-size:14px;
+    margin-top: 20px;
+}
+.wb_address{
+    display: flex;
+    align-items: end;
+}
+.wb_a_1, .wb_a_2{
+    flex: 1;
+}
+.wb_a_2 a{
+ color: #FFF;
+}
+.wb_social{
+  padding-top: 20px;  
+}
+.wb_social img{
+    width: 27px;
+    padding: 5px;
+}
+.wb_social, .widget_body a{
+    text-decoration: none;
+}
+.wb_text{
+    font-size:14px;
+    margin-top: 20px; 
+    color: #FFF;  
+}
 @media (max-width: 600px){
     .widget_title{
         margin-top: 108px;
