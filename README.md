@@ -1,4 +1,4 @@
-# clone-layout-site-mediCenter
+# clone do template MediCenter
 ### No que consiste este projeto?
 Este projeto é um clone de um template
 ### Objetivo:
