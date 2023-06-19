@@ -1,5 +1,12 @@
 # clone do template MediCenter
 ### No que consiste este projeto?
-Este projeto é um clone de um template
+Este projeto foi desenvolvido em aula e consiste em refazer apenas o desing do template
 ### Objetivo:
-O objetivo desse projeto é aprimorar os conhecimento em html e css focando no estudo do flex box
+O objetivo desse projeto é aprimorar o conhecimento em html e css focando no estudo do flex box
+### Resultado do projeto:
+
+### Crédito
+Este template tem o direito reservado para QuanticaLabs
+
+
+
